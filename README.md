@@ -46,13 +46,12 @@ Funcionalidades BASE:
 
 obs: todos os cadastros com CRUD básico.
 
-
-================
-
 Frentes de desenvolvimento
+================
 
 - Ruby on Rails
 https://github.com/nandosousafr/nerd-power-rails
 
 
-
+- Node.js
+https://github.com/btripoloni/ProjectoNerdPower-Node
