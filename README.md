@@ -1,7 +1,7 @@
 Projeto Nerd Power
 ================
 
-Muitas vezes confundido com o projeto Dyson CPU, esse projeto busca o desenvolvimento de um sistema nerd otimizado,
+Muitas vezes confundido com o projeto Dyson CPU, esse projeto busca o desenvolvimento, de um sistema nerd otimizado,
 levando em consideração todas as experiências e observações obtidas através da Skynerd.
 
 
@@ -12,6 +12,13 @@ utilização dos códigos aqui desenvolvidos para construção de sub-redes.
 O sistema será desenvolvido em linguagem PHP (Provavelmente com Framework Codeigniter), 
 base de dados Mysql, HTML5 e CSS3. Javascript e suas bibliotecas derivadas são nativos de qualquer
 sistema web e serão necessários para o desenvolvimento.
+
+
+Código Fonte da Skynerd
+================
+
+- Disponível a partir do dia 08/02/2014 no link: www.jovemnerd.com.br/skynerd/opensource
+  > Grandiosa cortesia e generosidade por parte de Alexandre Ottoni, Deive Pazos e Guilherme Camillo
 
 ================
 <ETAPAS>
