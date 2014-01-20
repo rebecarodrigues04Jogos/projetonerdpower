@@ -20,8 +20,16 @@ Código Fonte da Skynerd
 - Disponível a partir do dia 08/02/2014 no link: www.jovemnerd.com.br/skynerd/opensource
   > Grandiosa cortesia e generosidade por parte de Alexandre Ottoni, Deive Pazos e Guilherme Camillo
 
+
+Nerdrix - A matrix dos nerds
 ================
-<ETAPAS>
+
+O projeto desenvolvido nesse repositório já tem nome e endereço!! www.nerdrix.com.br
+A Nerdrix seguirá as seguintes etapas, que podem sofrer
+alterações de acordo com as necessidades observadas ao longo do desenvolvimento do projeto.
+
+
+ETAPAS
 
 1ª Etapa: Construção da equipe base de desenvolvimento. Precisamos de Nerds programadores, designers, ou simplesmente nerds, que possam opinar, testar, e sugerir melhorias.
 
