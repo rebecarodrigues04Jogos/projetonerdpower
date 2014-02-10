@@ -17,8 +17,8 @@ sistema web e serão necessários para o desenvolvimento.
 Código Fonte da Skynerd
 ================
 
-- Disponível a partir do dia 08/02/2014 no link: www.jovemnerd.com.br/skynerd/opensource
-  > Grandiosa cortesia e generosidade por parte de Alexandre Ottoni, Deive Pazos e Guilherme Camillo
+https://github.com/jovemnerd/rede-social
+
 
 Etapas do desenvolvimento:
 ================
