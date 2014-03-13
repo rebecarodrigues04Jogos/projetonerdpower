@@ -9,11 +9,6 @@ O sistema de código aberto, permite a contribuição e desenvolvimento de módu
 utilização dos códigos aqui desenvolvidos para construção de sub-redes.
 
 
-O sistema será desenvolvido em linguagem PHP (Framework a ser definido), 
-base de dados Mysql, HTML5 e CSS3. Javascript e suas bibliotecas derivadas são nativos de qualquer
-sistema web e serão necessários para o desenvolvimento.
-
-
 Código Fonte da Skynerd
 ================
 
